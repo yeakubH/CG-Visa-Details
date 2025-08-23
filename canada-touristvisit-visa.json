@@ -1,7 +1,7 @@
 {
   "title": "Canada - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-canada-72.png",
- "visa_fee": "Embassy Fee: 18,500 BDT per person (subject to conversion rate); Chologhuri File Processing Fee: 5,000 BDT per person",
+  "visa_fee": "Embassy Fee: 18,500 BDT per person (subject to conversion rate); Chologhuri File Processing Fee: 5,000 BDT per person",
   "processing_time": "20–30 working days (Embassy) + 8–10 working days (file processing)",
   "validity": "Temporary Resident Visa – Tourist / Business Visit",
   "details": [
@@ -16,7 +16,7 @@
     {
       "title": "Required Documents",
       "items": [
-       "Valid passport (with minimum 6 months validity and blank pages)",
+        "Valid passport (with minimum 6 months validity and blank pages)",
         "Copy of valid USA visa or previous Canada visa (if applicable)",
         "Copies of previous passports and issued visas",
         "Forwarding Letter (provided by Chologhuri)",
@@ -26,7 +26,7 @@
         "Last 6 months personal bank statement with solvency certificate",
         "NID and Birth Certificate for children (if applicable)",
         "Marriage Certificate (if married)",
-         "Travel dates (from and to)",
+        "Travel dates (from and to)",
         "Inviter’s details (if any): Name, address, postal code, phone number",
         "Post-secondary education details: from/to (Year-Month), field of study, institution name",
         "Employment history for the last 10 years: from/to (Year-Month), occupation, company name",
