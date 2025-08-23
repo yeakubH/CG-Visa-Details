@@ -1,23 +1,51 @@
 {
   "title": "Portugal - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-portugal-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "11,176 BDT (Embassy Fee for Adults) + 4,000 BDT (Chologhuri Processing Fee) + Travel Insurance & Notary extra",
+  "processing_time": "15–30 working days (Embassy) + 5–6 working days (File processing)",
+  "validity": "Typically up to 90 days within 180 days (Schengen short-stay)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with at least 7 months validity from travel date",
+        "Photographs (35mm x 40mm, not older than 3 months, unused in prior visas)",
+        "Personal bank statement (last 6 months) and solvency certificate",
+        "Proof of employment or business ownership with salary slips and employer certificates",
+        "Invitation letter (if visiting someone in Portugal)",
+        "Confirmed or tentative hotel booking and round-trip flight booking",
+        "Travel health insurance with adequate Schengen coverage",
+        "TIN certificate and NID (notarized for both applicant and spouse)",
+        "Proof of financial stability such as FDR, property, and asset documents",
+        "Marital status and family background information (marriage certificate, parents’ details)",
+        "Student ID and certificate (if applicable)"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport with at least 7 months validity",
+        "Three recent photographs (35x40mm, matte finish)",
+        "Visiting card",
+        "No Objection Certificate (NOC)",
+        "Forwarding letter from the applicant",
+        "Invitation letter (if applicable)",
+        "Bank statement (last 6 months) and solvency certificate",
+        "Salary slips (last 3 months) with company seal",
+        "Savings/asset documents (FDR, property, etc.)",
+        "Employment certificate with full details (name, position, salary, leave dates)",
+        "Travel health insurance (individual or corporate with full coverage details)",
+        "TIN certificate (notarized)",
+        "NID copy of applicant and spouse (notarized)",
+        "Travel itinerary (detailed plan with dates and places)",
+        "Current home address and duration of residence for applicant and spouse",
+        "Parents’ names, addresses, and birthdates",
+        "Trip budget breakdown (if applicable)",
+        "Name, address, passport number of any relative/friend in France (if applicable)",
+        "Marriage certificate (notarized)",
+        "Student ID (if applicable)",
+        "Flight booking confirmation",
+        "Hotel booking confirmation"
       ]
     }
   ],
