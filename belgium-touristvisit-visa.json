@@ -1,23 +1,40 @@
 {
   "title": "Belgium - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-belgium-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "11,300 BDT (Embassy) + 1,035 BDT (VFS) + 4,000 BDT (Processing Fee) + Travel Insurance extra",
+  "processing_time": "15 calendar days (Embassy) + 4–5 working days (File processing)",
+  "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport (valid for at least 3 months beyond return, with 2 blank pages)",
+        "Completed and signed Schengen Visa Application Form 119031",
+        "Clear purpose of travel (tourism or visiting friends/family)",
+        "Personal bank statements of the past 6 months and proof of financial means",
+        "Confirmed hotel booking and round-trip flight itinerary",
+        "Proof of employment, business registration, or student enrollment",
+        "Health and travel insurance covering at least €30,000",
+        "Invitation letter and sponsor documents if visiting family/friends",
+        "Translated documents related to civil status (marriage, birth, divorce certificates if applicable)"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Visa application form (Form 119031), filled and signed",
+        "One passport-size color photo (35mm x 45mm, white background)",
+        "Valid passport with at least 3 months validity beyond stay and previous passports",
+        "Photocopy of passport bio-page and previous visa pages",
+        "Flight reservation and detailed travel itinerary",
+        "Hotel booking with full address and contact information",
+        "Personal cover letter explaining purpose of visit and who will bear expenses",
+        "Health and travel insurance valid for Schengen area",
+        "Employment letter or business documents (translated if needed)",
+        "TIN certificate and income tax return",
+        "Bank statement (personal and company if self-employed) for last 6 months",
+        "Civil status documents (marriage, divorce, death, birth certificates as applicable)",
+        "Invitation letter and sponsor’s ID/residence documents (if visiting someone in Sweden)"
       ]
     }
   ],
