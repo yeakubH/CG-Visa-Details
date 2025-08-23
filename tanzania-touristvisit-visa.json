@@ -1,23 +1,27 @@
 {
   "title": "Tanzania - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-tanzania-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "12000 BDT",
+  "processing_time": "1–2 days (Chologhuri) + Embassy processing time (varies)",
+  "validity": "Single-entry (validity depends on embassy)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport holders traveling to Tanzania for tourism.",
+        "Passport must be valid for at least 6 months from the date of travel.",
+        "Must have a sponsor in Tanzania providing an invitation letter and ID."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Copy of passport bio-data page (valid for 6 months minimum)",
+        "Copies of previous visas (if any)",
+        "Recent passport-size photograph",
+        "Return ticket booking (Chologhuri will arrange)",
+        "Travel itinerary (Chologhuri will arrange)",
+        "Invitation letter from sponsor in Tanzania with sponsor’s ID and contact number"
       ]
     }
   ],
