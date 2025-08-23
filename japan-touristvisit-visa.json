@@ -1,23 +1,29 @@
 {
   "title": "Japan - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-japan-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "Embassy Fee: FREE (for BD passport holders) + VFS: BDT 1,900 + Chologhuri: BDT 3,000",
+  "processing_time": "Embassy: 10–12 working days (after submission), Chologhuri: 3–5 working days",
+  "validity": "As per embassy decision (typically short-term single-entry)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport holders with valid reason for tourism and supporting financial and identity documents.",
+        "Must obtain appointment confirmation from VFS Global prior to visa submission."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "VFS Appointment Letter",
+        "Visa Application Form (Prepared by Chologhuri)",
+        "Cover Letter & Travel Itinerary (Prepared by Chologhuri)",
+        "Flight Reservation & Hotel Booking (Prepared by Chologhuri)",
+        "National ID (NID)",
+        "Two recent passport-size photos (2” × 1.4”, white background)",
+        "Passport bio page photocopy",
+        "Marriage Certificate / Nikahnama (if married)",
+        "Additional documents based on occupation (job, business, student, etc.)"
       ]
     }
   ],
