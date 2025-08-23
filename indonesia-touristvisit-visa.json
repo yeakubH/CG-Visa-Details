@@ -1,23 +1,35 @@
 {
   "title": "Indonesia - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-indonesia-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "12,500 BDT (including service charge & insurance)",
+  "processing_time": "20–25 working days (approx.)",
+  "validity": "Single Entry, maximum stay 60 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport valid for at least 6 months from travel date",
+        "Sufficient proof of funds (minimum USD $2000 within the last 6 months)",
+        "Visa is only for tourism, business, official activities, conferences, humanitarian or journalistic reasons (no paid work allowed)",
+        "Special permit required for journalistic or film/video-making activities before visa application"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport with at least 6 months validity",
+        "Two recent passport-size color photos (3x4 cm, white background)",
+        "Bank statement and solvency showing at least USD $2000",
+        "Blank cheque book copy",
+        "TIN Certificate",
+        "Confirmed return air ticket and hotel reservation",
+        "Proof of health insurance",
+        "COVID-19 vaccination certificate",
+        "Health declaration letter and consent letter to pay medical expenses",
+        "Job Holders: NOC, office ID card, visiting card",
+        "Business Persons: Trade license with English translation and notary, company pad (2 copies), memorandum (if required), visiting card",
+        "Students: Student ID card, NOC from institution, father's documents if applying individually",
+        "Housewives: Husband’s supporting documents"
       ]
     }
   ],
