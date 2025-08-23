@@ -1,23 +1,23 @@
 {
   "title": "Uzbekistan - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-uzbekistan-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "Single Entry – 3,500 BDT, Double Entry – 5,500 BDT, Multiple Entry – 7,500 BDT",
+  "processing_time": "3–5 working days (Embassy dependent) + 1–2 days file processing",
+  "validity": "Single / Double / Multiple Entry (as applied)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi citizens holding a valid passport (minimum 6 months from date of travel).",
+        "Applicants must submit the required digital documents and follow embassy-specific requirements."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Passport bio page (color scan copy)",
+        "One recent photograph (35×45 mm, JPEG format, white background)",
+        "Visiting card scan copy"
       ]
     }
   ],
