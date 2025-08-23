@@ -1,23 +1,32 @@
 {
   "title": "Thailand - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-thailand-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "6,000 BDT (Single Entry), 24,000 BDT (Multiple Entry)",
+  "processing_time": "40–45 working days (Embassy dependent) + 2–3 days file processing",
+  "validity": "Single or Multiple Entry (Embassy's decision)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi citizens holding a passport valid for at least 6 months from the date of travel.",
+        "Must apply for tourist, medical, or business visas only.",
+        "Applicants must provide financial proof and relevant documents based on occupation."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+       "Passport scan copy (valid minimum 6 months from travel date)",
+        "Recent photograph (35x45 mm, white background, no caps/glasses)",
+        "Visiting card and office ID card",
+        "Bank statement (last 6 months) and bank solvency certificate (minimum BDT 80,000 per person)",
+        "Marriage certificate (notarized and English translated) – if spouse's name not in passport",
+        "Utility bill copy (for address verification)",
+        "Previous visa copies (if available)",
+        "For Job Holders: NOC with salary details, office ID card (both sides), GO (for Govt. officials), BMDC (Doctors), BAR Council (Advocates), Retirement Certificate (Retired person)",
+        "For Business Owners: Office pad (blank), renewed trade license (translated + notarized), memorandum (for limited companies)",
+        "For Students: Student ID (both sides), NOC from institution, birth certificate",
+        "Sponsor-based applicants must submit sponsor’s occupation-specific documents"
       ]
     }
   ],
