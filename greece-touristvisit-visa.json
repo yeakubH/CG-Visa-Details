@@ -1,23 +1,37 @@
 {
   "title": "Greece - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-greece-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "As per Embassy + Chologhuri processing fee (TBD)",
+  "processing_time": "Varies depending on embassy schedule",
+  "validity": "Determined by embassy, usually up to 90 days in 180-day period",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport valid for at least 3 months after intended return date, with minimum 2 blank pages and issued within the last 10 years",
+        "Complete visa application form with a recent passport-size photo (ICAO standard)",
+        "Confirmed travel medical insurance covering all Schengen states with at least €30,000 coverage",
+        "Confirmed round-trip air ticket reservation and hotel booking or invitation letter from host",
+        "Proof of financial means (3-month bank statement, income tax returns, employment letter or trade documents)",
+        "Cover letter stating the travel purpose and itinerary",
+        "Marriage certificate or relationship proof if applicable",
+        "Minor applicants must submit notarized parental consent and passport/ID copies of parents"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Duly filled and signed Schengen visa application form",
+        "One passport-size color photo with white background (ICAO compliant)",
+        "Valid passport and previous passports with photocopies of all visa pages",
+        "Travel medical insurance with minimum €30,000 coverage",
+        "Flight and hotel reservations or invitation letter with accommodation details",
+        "Original personal bank statement (last 3 months), income tax returns, and employment proof (salary slips, NOC)",
+        "For business: Invitation letter, company registration documents, and trade license",
+        "For students: Admission letter, student ID, and leave certificate",
+        "For medical: Medical certificates and hospital acceptance letters with payment proof",
+        "For family/friends visit: Relationship proof, invitation letter, host ID documents",
+        "Additional documents based on purpose (official delegations, film crews, seafarers, airport transit etc.)"
       ]
     }
   ],
