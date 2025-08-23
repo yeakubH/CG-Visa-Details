@@ -1,23 +1,42 @@
 {
   "title": "Denmark - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-denmark-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+   "visa_fee": "11,400 BDT (Embassy) + 1,655 BDT (VFS Service Fee) + 4,000 BDT (Chologhuri Processing Fee) + Travel Insurance & Notary extra",
+  "processing_time": "15 working days (Embassy) + 5–7 working days (File processing)",
+  "validity": "Typically up to 90 days within 180 days (Schengen short-stay)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with at least 3 months validity beyond intended stay and 2 blank pages",
+        "Completed and signed Schengen Visa Application Cover Letter and VU2 form from ApplyVisa",
+        "Visa fee payment receipt (online)",
+        "Strong purpose of visit (tourism or visiting family/friends) supported by documentation",
+        "Proof of employment, business, or student status",
+        "Proof of personal financial means and documents showing establishment in Bangladesh (property, partnerships, family)",
+        "Health and travel insurance valid in Schengen area (minimum €30,000 coverage)",
+        "Hotel booking, flight reservation, and travel itinerary (arranged by Chologhuri)",
+        "Invitation and identity documents from host if visiting family/friends"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Printed and signed Schengen Visa Application Cover Letter from ApplyVisa",
+        "Printed receipt for online payment of visa fee",
+        "Completed and signed VU2 form",
+        "Passport and all previous passports",
+        "Passport-size photo (35mm x 45mm, bright background, color)",
+        "Personal cover letter (provided by Chologhuri)",
+        "Employer’s letter, NOC, visiting card, employment certificate, salary slips, and tax certificates (last 3 years)",
+        "For self-employed: trade license, incorporation certificate, company bank statements (6 months), income tax return",
+        "For students: enrollment proof, leave of absence letter with official contact details",
+        "Original personal bank statement (6 months); also company statement if applicable",
+        "Documents proving financial/property ownership and family ties (e.g. marriage certificate, children's birth certificates)",
+        "Travel insurance (original and photocopy)",
+        "Hotel reservation, flight booking, and itinerary (provided by Chologhuri)",
+        "If visiting family/friends: invitation letter, documents proving host's identity (passport, ID, residence permit)",
+        "Photocopies of passport data page, previous visas (Schengen, US, UK, Canada), and Bangladesh residence permit (for non-Bangladeshi applicants)"
       ]
     }
   ],
