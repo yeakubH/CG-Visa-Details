@@ -1,32 +1,36 @@
 {
   "title": "Egypt - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-egypt-72.png",
-  "visa_fee": "7600 BDT",
-  "processing_time": "35-40 working days",
-  "validity": "90 days",
+   "visa_fee": "10,000 BDT (Embassy + Chologhuri Processing Fee)",
+  "processing_time": "35–40 working days (Embassy) + 1–2 working days (File preparation)",
+  "validity": "Determined by embassy upon approval",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Have a Valid Passport.",
-        "Have a Legitimate Purpose of Travel.",
-        "Show Proof of Financial Means.",
-        "Have a Clean Travel History.",
-        "Have Confirmed Travel Arrangements."
+        "Valid Bangladeshi passport with at least 6 months validity from travel date",
+        "Minimum personal bank balance of 500,000 BDT per person",
+        "Basic travel purpose must be tourism or business only",
+        "Proof of financial means, hotel booking, and supporting job/business/student documents",
+        "Marriage certificate (notarized and translated) if spouse’s name is not in passport",
+        "NID and utility bill copies must be submitted",
+        "All current and previous passports must be submitted"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Valid passport(s) and minimum validity of the passport must be 6 months from the travel date..",
-        "2 copies of recent color photos sized Passport white background (Cap & Glass Photos not allowed).",
-        "2 sets of Visiting cards.",
-        "Bank statement of last 6 months and bank solvency certificate (Original seal signed copy and a set of photocopies).",
-        "Minimum account balance must be 500,000/- per person.",
-        "NID Card",
-        "Utility Bill Copy",
-        "Hotel Booking",
-        "Marriage Certificate Notarized and English translated copy (If Spouse name not mentioned in Passport)"
+        "Valid passport (minimum 6 months validity) and all previous passports",
+        "Two recent passport-size photos (white background, no cap or glasses)",
+        "Two sets of visiting cards",
+        "Personal bank statement for last 6 months and solvency certificate (original with seal)",
+        "NID card copy",
+        "Utility bill copy",
+        "Hotel booking (arranged by Chologhuri)",
+        "Marriage certificate (notarized and English translated, if applicable)",
+        "For Job Holders: NOC, office ID card, salary slip (last 3 months), GO (for govt.), BMDC/BAR/Retirement certificate as applicable",
+        "For Business Persons: Office pad, renewed trade license with notarized English copy, memorandum (for limited companies)",
+        "For Students: Photocopies of student ID (both sides), birth certificate"
       ]
     }
   ],
