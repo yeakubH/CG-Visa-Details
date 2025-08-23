@@ -1,23 +1,31 @@
 {
   "title": "Cambodia - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-cambodia-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "5,500 BDT (Single Entry) + Travel Insurance charges (if arranged by Chologhuri)",
+  "processing_time": "3 business days (Embassy) + 1–2 working days (File preparation)",
+  "validity": "3 months validity with 30 days stay, Single Entry",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid Bangladeshi passport with at least 6 months validity from travel date",
+        "Digital passport-size photo (JPEG or PNG format)",
+        "Confirmed hotel booking (provided by Chologhuri)",
+        "Travel insurance (mandatory; can be arranged with additional cost)",
+        "COVID-19 vaccination certificate",
+        "Tourist or business travel purposes only; no other visa categories are processed"
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Scanned copy of passport info page",
+        "Passport-size photo in JPEG or PNG format",
+        "Hotel booking confirmation (provided by Chologhuri)",
+        "Travel insurance policy",
+        "Scanned copy of visiting card",
+        "COVID-19 vaccination certificate",
+        "Submission of all current and previous passports at the time of application"
       ]
     }
   ],
