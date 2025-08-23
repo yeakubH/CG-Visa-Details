@@ -1,23 +1,32 @@
 {
   "title": "China - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-china-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "14,000 BDT (Single Entry, Must have previous travel record to China), 17,000 BDT (Double Entry)",
+  "processing_time": "10–12 working days (approx.)",
+  "validity": "Single or Double Entry based on application",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport holders with at least 6 months passport validity from the intended date of travel.",
+        "Must have a minimum bank balance of BDT 300,000 per person maintained until passport is returned from the embassy.",
+        "Single-entry visa (14,000 BDT) is only available for applicants who have previously traveled to China.",
+        "Double-entry visa (17,000 BDT) available for eligible applicants."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport (6 months validity minimum) and all previous passports.",
+        "Two recent color photographs (48x33 mm, matte paper, white background, no cap or glasses).",
+        "Bank statement for last 6 months and solvency certificate (original with seal & signature).",
+        "TIN certificate.",
+        "COVID-19 vaccine certificate.",
+        "Marriage certificate (if spouse's name not in passport) – must be notarized and English translated.",
+        "Two copies of visiting card.",
+        "Confirmed return air ticket and hotel reservation.",
+        "For job holders: NOC, office ID, last 3 months' salary slips or certificate, GO for government officials, BMDC/BAR Council certificate if applicable.",
+        "For business owners: Blank official pad page, renewed trade license (English + notarized), and memorandum (for limited companies)."
       ]
     }
   ],
