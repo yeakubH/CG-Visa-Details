@@ -1,23 +1,23 @@
 {
   "title": "Pakistan - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-pakistan-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "BDT 1,500",
+  "processing_time": "5–7 working days (Chologhuri processing: 1–2 days additional)",
+  "validity": "90 Days - Single Entry",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi passport holders intending to visit Pakistan for tourism purposes.",
+        "Applicants must provide valid passport and basic supporting documents."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Scanned copy of passport (color)",
+        "1 recent passport-size photo (white background)",
+        "Visiting card scan copy"
       ]
     }
   ],
