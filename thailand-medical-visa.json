@@ -1,25 +1,35 @@
 {
   "title": "Thailand - Medical Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-thailand-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+   "visa_fee": "6,500 BDT",
+  "processing_time": "40–45 working days (approx.)",
+  "validity": "Single Entry (Embassy discretion)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi citizens must obtain a tourist visa prior to travel.",
+        "Passport must be valid for at least 6 months from intended travel date.",
+        "Minimum bank balance must be BDT 70,000 per person (or 70,000 × number of applicants if sponsored).",
+        "For medical purposes, proper documentation and appointment/admission letter from a Thai hospital is mandatory.",
+        "Visa approval is at the sole discretion of the Thai Embassy and may require a personal interview."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport and all previous passports.",
+        "Two recent passport-sized color photos (35x45 mm, matte finish, white background, no cap or glasses).",
+        "Two sets of visiting cards.",
+        "Last 6 months’ bank statement and bank solvency certificate (original + photocopy).",
+        "Salary slips for the last 3 months (if employed).",
+        "Marriage certificate (notarized and translated to English) if spouse’s name not mentioned in passport.",
+        "Medical travelers: medical certificate, doctor’s recommendation (Bangladesh & Thailand), hospital appointment letter, and details of accompanying persons.",
+        "Job holders: NOC, office ID (both sides), GO (if govt. official), BMDC (for doctors), BAR Council (for advocates), retirement certificate (if retired).",
+        "Business owners: office pad, notarized trade license (with English translation), memorandum of association (for limited companies).",
+        "Students: student ID (both sides), birth certificate, and school/university NOC."
       ]
     }
   ],
-  "note": "All expenditures related to visa processing are strictly non-refundable. Visa information and associated charges are subject to change at any time without prior notice. We provide assistance only and do not guarantee the issuance of visas. This information sheet has been prepared by us and may include additional details beyond the embassy's requirements."
+  "note": "Chologhuri does not process urgent visas or guarantee visa approval. Applicants must submit both current and previous passports. We take 1–2 working days to prepare the file after receiving all documents. Additional documents may be requested by the Embassy."
 }
