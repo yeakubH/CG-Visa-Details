@@ -1,25 +1,33 @@
 {
   "title": "China - Business Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-china-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "14,000 BDT (for previous China travelers), 20,000 BDT (for fresh passport holders)",
+  "processing_time": "10–12 working days (approx.)",
+  "validity": "Single or Double Entry (based on eligibility)",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Bangladeshi citizens must obtain a visa before traveling to China.",
+        "Passport must be valid for at least 6 months from the intended travel date.",
+        "For standard processing (14,000 BDT), the applicant must have previously visited China.",
+        "Applicants with fresh passports (no prior China visa) will be charged 20,000 BDT.",
+        "Minimum bank balance of BDT 300,000 per person, to be maintained throughout the process."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport and all previous passports.",
+        "Two recent color photographs (48x33 mm, matte finish, white background, no cap or glasses).",
+        "Last 6 months' bank statement and solvency certificate (original with seal & signature).",
+        "TIN certificate.",
+        "Marriage certificate (if spouse’s name not in passport) – notarized and translated to English.",
+        "Two sets of visiting cards.",
+        "Job holders: NOC, office ID card, Government Order (for govt. officials), BMDC certificate (for doctors), BAR Council certificate (for advocates), or retirement certificate (for retired individuals).",
+        "Business persons: Office pad (blank), renewed trade license (English + notarized), and memorandum of association (for limited companies)."
       ]
     }
   ],
-  "note": "All expenditures related to visa processing are strictly non-refundable. Visa information and associated charges are subject to change at any time without prior notice. We provide assistance only and do not guarantee the issuance of visas. This information sheet has been prepared by us and may include additional details beyond the embassy's requirements."
+  "note": "Visa approval is not guaranteed and is solely at the discretion of the Chinese Embassy. Applicants must submit both current and previous passports. Chologhuri takes 1-2 days to prepare files after receiving all documents."
 }
