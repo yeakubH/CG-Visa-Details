@@ -1,7 +1,7 @@
 {
   "title": "Netherlands - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-netherlands-72.png",
-  "visa_fee": "11,300 BDT (Embassy) + 1,117.62 BDT (VFS Service Fee) + 230 BDT (Bank Fee) + 4,000 BDT (Processing Fee) + Insurance & Notary extra",
+  "visa_fee": "12,800 BDT (Embassy) + 2,478 BDT (VFS Service Fee) + 2418 BDT (Appointment Fee) + 4,000 BDT (Processing Fee) + Insurance & Notary extra",
   "processing_time": "15–45 calendar days (Embassy) + 5–7 working days (File processing)",
   "validity": "Up to 90 days within 180 days",
   "details": [
@@ -24,6 +24,8 @@
       "title": "Required Documents",
       "items": [
         "Visa application form no. 119031, completed and signed",
+        "Tin Certificate",
+        "Tax returns last 3 years (Acknowledgement receipt for income and tax clarity)",
         "Passport with photocopy of bio-page and all Schengen visas",
         "One recent passport-size photo (35mm x 45mm, light background)",
         "Cover letter explaining travel purpose addressed to the Embassy",
@@ -38,7 +40,9 @@
         "Invitation from visited company (if applicable)",
         "Proof of recent business transactions or contracts (if applicable)",
         "Proof of attendance and program details for trade fairs or congress (if applicable)",
-        "Parental consent and documents for minors (passport copy, financials, birth certificate)"
+        "Proof of present address",
+        "Parental consent and documents for minors (passport copy, financials, birth certificate)",
+        "Family ties (family members NID/Passport Bio page)"
       ]
     }
   ],
