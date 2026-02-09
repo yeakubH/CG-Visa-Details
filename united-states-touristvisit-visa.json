@@ -1,7 +1,7 @@
 {
   "title": "United States - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-usa-72.png",
-  "visa_fee": "XXX BDT",
+  "visa_fee": "23200 BDT + 5000 BDT Service Fee",
   "processing_time": "XX working days",
   "validity": "XX days",
   "details": [
@@ -15,9 +15,10 @@
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "PASSPORT PHOTOCOPY, NID COPY.",
+        "TWO COPY WHITE BACKGROUND PHOTO (2”/2”) SOFT COPY.",
+        "VISITING CARD.",
+        "Last USA visa copy (if you have one)"
       ]
     }
   ],
