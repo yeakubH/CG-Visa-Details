@@ -1,7 +1,7 @@
 {
   "title": "Australia - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-australia-72.png",
-  "visa_fee": "19500 BDT",
+  "visa_fee": "19500 BDT + 5000 BDT service fee",
   "processing_time": "7-10 working days (Depending on file numbers)",
   "validity": "1 - 3 Years",
   "details": [
@@ -26,6 +26,7 @@
         "Airline & Hotel Reservation",
         "Asset valuation",
         "Family 54 form",
+        "All documents in Bangla must be translated into English and notarized",
         "If you ever get refused in any country – if yes mention the country’s name/ year and the reason."
       ]
     }
