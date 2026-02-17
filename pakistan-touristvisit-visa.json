@@ -1,9 +1,9 @@
 {
   "title": "Pakistan - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-pakistan-72.png",
-  "visa_fee": "BDT 1,500",
+  "visa_fee": "BDT 5,000 (Embassy fee + Service Charge)",
   "processing_time": "5–7 working days (Chologhuri processing: 1–2 days additional)",
-  "validity": "90 Days - Single Entry",
+  "validity": "30 Days - Single Entry",
   "details": [
     {
       "title": "Eligibility",
@@ -15,9 +15,13 @@
     {
       "title": "Required Documents",
       "items": [
-        "Scanned copy of passport (color)",
-        "1 recent passport-size photo (white background)",
-        "Visiting card scan copy"
+        "Recent passport-size photograph with white background (2 copies)",
+        "Passport bio page copy + Original passport",
+        "Flight booking confirmation",
+        "NOC or Trade License",
+        "Hotel booking details",
+        "Travel itinerary",
+        "Bank statement"
       ]
     }
   ],
