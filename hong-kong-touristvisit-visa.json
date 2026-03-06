@@ -1,7 +1,7 @@
 {
   "title": "Hong Kong - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-hongkong-flag-72.png",
-  "visa_fee": "10000 BDT",
+  "visa_fee": "7000 BDT",
   "processing_time": "15-20 working days",
   "validity": "90 days",
   "details": [
@@ -17,13 +17,14 @@
       "items": [
         "Passport must be valid for at least 6 months.",
         "Recent photo with white background, size 35x45 mm.",
-        "Bank statement for the last six months with a minimum balance of 300,000.00 BDT.",
+        "Bank statement for the last six months with a minimum balance of 30,000.00 BDT.",
         "Bank solvency certificate (same account).",
         "NID copy.",
         "TIN certificate.",
         "Income tax certificate for the last 3 years.",
         "Vaccine certificate.",
-        "Some specific documents are required for business persons or job holders."
+        "NOC ,OFFICE ID CARD , SALARY STATEMENT ,VISITING CARD for job holders.",
+        "STUDENT ID CARD ,NOC FROM SCHOOL/COLLEGE OR UNIVERSITY for students "
       ]
     }
   ],
