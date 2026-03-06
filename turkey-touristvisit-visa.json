@@ -1,42 +1,44 @@
 {
   "title": "Turkey - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-turkey-72.png",
-  "visa_fee": "25000 BDT",
+  "visa_fee": "25,000 BDT + Chologhuri Service Fee 2,000 BDT + Notary and Translation",
   "processing_time": "3 - 4 weeks",
   "validity": "180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Valid Passport.",
-        "Visa Application Form.",
-        "Photograph.",
-        "Proof of Travel Purpose.",
-        "Financial Documents.",
-        "Proof of Employment/Study.",
-        "Travel Insurance.",
-        "Flight Booking."
+        "Valid passport with at least 6 months validity.",
+        "Completed and signed visa application form.",
+        "Recent biometric photographs.",
+        "Proof of travel purpose (flight & hotel booking).",
+        "Financial proof (bank statement and solvency certificate).",
+        "Proof of occupation (employee/business/student/retired).",
+        "Travel health insurance.",
+        "National ID or Birth Certificate."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
         "Visa application form must be filled and signed by the applicant.",
-        "A valid passport with 6 months validity on the date of application and it should have at least 2 empty pages..",
-        "National ID card or birth certificate photocopy (ID mandatory).",
+        "A valid passport with at least 6 months validity from the date of application and at least 2 empty pages.",
+        "Passport biodata page photocopies (3 copies).",
+        "3 copies biometric photos with white background taken within the last 6 months covering full face including ears and hair, clearly visible without shadow (size 2x2 inch, matte paper).",
+        "National ID card or Birth Certificate photocopy (National ID mandatory).",
+        "Travel Health Insurance as per embassy/consulate instructions (Türkiye incoming health insurance is mandatory and can only be done by MOSAIC).",
         "Airline ticket reservation.",
         "Hotel reservation.",
-        "Original bank statement up to date covering last 3 months of transactions + Original bank solvency (of the cost bearer).",
+        "Original bank statement up to date covering the last 3 months of transactions + Original bank solvency certificate (of the cost bearer).",
         "Covering letter / Request letter / Forwarding letter.",
-        "Introduction Letter (Yourself).",
-        "Trade license attested by notary public (For businessman).",
-        "Income tax return / TIN attested by notary public (Business person & employee).",
-        "NOC + Visiting card + Official ID (Only for employee).",
-        "Membership + Memorandum + Incorporation + Export + Import certificate attested by a notary public (Only for businessman).",
-        "Applicant aged below 18 travelling with one parent needs to provide a permission letter from another parent..",
-        "BMDC certificate or Bar Council certificate attested by notary public (Occupation wise).",
-        "Retirement’s letter for the official personnel who are retired attested by a notary public.",
-        "3 copies biometric photos in size 2x2 matte paper."
+        "Introduction letter from the applicant.",
+        "Trade license attested by Notary Public (for businessmen).",
+        "Income Tax Return / TIN certificate attested by Notary Public (for businessmen and employees).",
+        "NOC + Visiting Card + Official ID (for employees).",
+        "Membership Certificate + Memorandum + Incorporation Certificate + Export/Import Certificate attested by Notary Public (for businessmen).",
+        "If applicant is below 18 and traveling with one parent, a permission letter from the other parent is required.",
+        "BMDC Certificate or Bar Council Certificate attested by Notary Public (occupation based if applicable).",
+        "Retirement letter for retired government/private officials attested by Notary Public."
       ]
     }
   ],
