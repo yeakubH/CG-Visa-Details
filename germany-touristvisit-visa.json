@@ -1,37 +1,38 @@
 {
   "title": "Germany - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-germany-72.png",
-  "visa_fee": "Embassy Fee - 11300 BDT + File Processing Fee - 4000 BDT + VFS service charge",
-  "processing_time": "10 - 15 working days",
-  "validity": "90 - 180 days",
+  "visa_fee": "13,000 BDT + VFS Service Charge 2,745 BDT",
+  "processing_time": "15 - 30 Working Days (Approx)",
+  "validity": "As per embassy approval",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Valid Passport.",
-        "Completed Visa Application Form.",
-        "Biometric Data Submission.",
-        "Proof of Purpose of Visit.",
-        "Proof of Financial Means.",
-        "Proof of Employment or Study.",
-        "Proof of Return to Bangladesh.",
-        "Round-Trip Flight Reservation."
+        "Valid passport with sufficient validity.",
+        "Clear purpose of travel to Germany or Schengen area.",
+        "Proof of financial capability for the trip.",
+        "Travel medical insurance covering Schengen countries.",
+        "Confirmed travel itinerary including flight and accommodation.",
+        "Proof of employment, business, or student status."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Appication Form.",
-        "Declaration of Consent.",
-        "Passport with 3 months of validity.",
-        "Two recent biometric passport-sized photographs (35x45cm).",
-        "Overseas medical insurance.",
-        "Flight and hotel reservation.",
-        "Personal cover letter explaining the purpose of your visit and who will bear the travel cost.",
-        "Tour Plan lining out the entire intended itinerary/activities in the Schengen area.",
-        "Employment of student document.",
-        "Proof of financial means of the applicant in Bangladesh.",
-        "Documents related to civil status."
+        "Completely filled and signed Schengen visa application form (use VIDEX website and print all pages including barcodes).",
+        "Declaration of Consent form.",
+        "Passport with minimum 3 months validity beyond visa expiry and at least 2 blank pages (previous passports if applicable).",
+        "One recent biometric passport sized photograph (35x45 mm, white background, 70–80% face coverage; do not glue or staple).",
+        "Overseas medical insurance valid for entire Schengen stay with minimum €30,000 coverage including repatriation (credit card insurance not accepted).",
+        "Flight reservation/itinerary and confirmed hotel booking with full address and reference number.",
+        "Personal covering letter explaining the purpose of the visit and who will bear the travel expenses.",
+        "Tour plan outlining the full intended itinerary and activities within the Schengen area.",
+        "Employment documents: Employer letter with designation, salary, leave approval and purpose of visit. For self-employed: Trade license, Certificate of Incorporation, Memorandum of Articles, and company bank statements (last 6 months). For students: Proof of enrolment and leave certificate.",
+        "Original personal bank statements for at least the last 6 months and proof of other financial assets (DPS, FDR, holding tax receipt, etc.).",
+        "Copy of personal tax return certificate with annual tax payment confirmation and proof of payment (latest fiscal year).",
+        "Civil status documents such as Marriage Certificate/Nikah Nama, Divorce Certificate, Death Certificate, or Children’s Birth Certificate translated into German or English.",
+        "Additional photocopies including passport biodata page, Bangladesh residence permit (if applicable), and copies of previous Schengen/US/Canada/UK visas.",
+        "For minors under 18: Birth certificate, custody/adoption documents if applicable, and notarized consent letter from legal guardian with passport copy if guardian is not traveling."
       ]
     }
   ],
