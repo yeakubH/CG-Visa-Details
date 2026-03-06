@@ -1,43 +1,42 @@
 {
   "title": "Spain - Tourist/Visit Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-spain-72.png",
-  "visa_fee": "11,794 BDT (Visa Fee) + 2,004 BDT (Service Charge) + 250 BDT (Collection Fee) + 4,000 BDT (Processing Fee) + Travel Insurance extra",
+  "visa_fee": "12,793 BDT + BLS Service Charge 2,402 BDT",
   "processing_time": "21 calendar days (Embassy) + 5–6 working days (File processing)",
   "validity": "Up to 90 days within 180 days",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Valid Bangladeshi passport (valid for at least 6 months beyond intended stay, with 2 blank pages)",
-        "Completed and signed Schengen visa application form in capital letters",
-        "Clear purpose of travel such as tourism or visiting relatives/friends in Spain",
-        "Hotel reservation or invitation letter certified by Spanish Police, with host documents",
-        "Travel insurance covering a minimum of €30,000 for the full trip duration",
-        "Sufficient personal financial means (6 months updated bank statement, FDR, asset proof)",
-        "Proof of employment, business ownership, or student status (translated into Spanish)",
-        "All civil status documents (marriage, birth, etc.) must be legalized by MOFA and translated into Spanish",
-        "Translated income tax return and salary slips",
-        "Flight reservation for round-trip journey",
-        "No-objection letter from non-traveling parent for minors, signed at Spanish Embassy",
-        "Previous passport and visa history must be provided"
+        "Valid passport with sufficient validity.",
+        "Clear purpose of travel to Spain or Schengen area.",
+        "Proof of sufficient financial means for the trip.",
+        "Travel medical insurance covering all Schengen countries.",
+        "Confirmed travel itinerary including flight and accommodation.",
+        "Proof of employment, business, or student status."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Original and previous passports with photocopies of bio pages and visa pages",
-        "Two passport-size photographs (35mm x 45mm, white background)",
-        "Visa application form filled in capital letters and signed",
-        "Cover letter in Spanish addressed to the Embassy of Spain",
-        "Round-trip flight booking and confirmed hotel reservation or certified invitation letter",
-        "Travel insurance with minimum €30,000 coverage for Schengen countries",
-        "Personal bank statement (last 6 months, updated, signed and sealed by bank)",
-        "Proof of income: TIN, translated tax return, salary slips (last 6 months)",
-        "Proof of employment: Leave letter and employer's letter (translated to Spanish)",
-        "For self-employed: Trade license, incorporation certificate, MOFA legalized and translated",
-        "Civil status documents: Marriage, birth, death certificates (legalized and translated to Spanish)",
-        "Proof of relationship for family members applying together (marriage/birth certificate)",
-        "For minors: No-objection letter from parent not traveling (in Spanish), both parents’ signatures, ID/passport copies"
+        "Spanish Schengen visa application form duly filled and signed by the applicant (both parents must sign for minors).",
+        "Two recent color passport-size photographs (35x45 mm) with white background (gents with uncovered head) glued to the application form.",
+        "Original passport and photocopy (issued within the last 10 years, valid for at least 3 months beyond visa expiry) including personal data page, relevant pages and previous visas.",
+        "For non-Bangladeshi applicants: Bangladesh residence permit valid at least 3 months after Schengen visa expiry.",
+        "Visa fee payment.",
+        "Medical insurance covering minimum €30,000 including repatriation, valid for the entire stay in all Schengen states.",
+        "Photocopy (full page) of return flight booking.",
+        "Hotel confirmation, hotel voucher, or other proof of accommodation for the entire stay.",
+        "Original personal and company bank statements and credit card statements for the last 6 months, updated, signed and stamped by the bank or branch manager.",
+        "If visiting family or friends: Letter of invitation, proof of sponsorship and supporting documents showing family relationship or ties.",
+        "If employed: Certificate of employment including company address, phone, fax, countersigning officer name and position, applicant designation, salary, years of service and approved leave.",
+        "If self-employed: Certificate of Incorporation, Memorandum and Articles of Association, Trade License legalized by MOFA and translated into Spanish, plus Income Tax Return for last year or TIN certificate.",
+        "If student: Proof of enrolment and leave certificate from institution including address, phone and permission details. For school trips, letter from school mentioning purpose, duration and destination.",
+        "If travelling with spouse or children: Marriage certificate issued by responsible authority, legalized by MOFA and translated into Spanish.",
+        "Civil status documents such as Marriage Certificate, Divorce Certificate (Talak Nama), Death Certificate (if widowed), and Birth Certificate for children.",
+        "For minors: Parental consent if both parents are not travelling together, photocopy of parents or legal guardian passport, proof of financial means of guardian and original birth certificate of minor.",
+        "Personal covering letter explaining the purpose of travel and detailed itinerary.",
+        "Full set of A4 size one-sided photocopies of all documents for scanning purposes."
       ]
     }
   ],
