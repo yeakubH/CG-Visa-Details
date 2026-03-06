@@ -1,23 +1,38 @@
 {
   "title": "Indonesia - Business Visa",
   "image": "https://cg-website-s3.s3.ap-south-1.amazonaws.com/0000/7/2024/12/17/icons8-indonesia-72.png",
-  "visa_fee": "XXX BDT",
-  "processing_time": "XX working days",
-  "validity": "XX days",
+  "visa_fee": "20,000 BDT per applicant (Legalization, Notary, Translation & Insurance extra)",
+  "processing_time": "10 - 12 Working Days (Approx)",
+  "validity": "As per embassy approval",
   "details": [
     {
       "title": "Eligibility",
       "items": [
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport with at least 6 months validity from the date of travel.",
+        "Purpose of travel must be business related.",
+        "Proof of financial capability.",
+        "Invitation letter from Indonesian company or counterpart.",
+        "Confirmed travel arrangements (flight and hotel booking).",
+        "Health insurance coverage."
       ]
     },
     {
       "title": "Required Documents",
       "items": [
-        "Dummy item.",
-        "Dummy item.",
-        "Dummy item."
+        "Valid passport with minimum 6 months validity from the date of travel.",
+        "2 copies of recent color photos (size 3x4 cm, matte paper, white background, cap and glasses not allowed).",
+        "Proof of funds of at least USD 2000 within the last 6 months (Bank Statement + Bank Solvency Certificate).",
+        "Original blank checkbook copy.",
+        "TIN certificate.",
+        "Return air ticket reservation.",
+        "Hotel reservation.",
+        "Proof of health insurance.",
+        "Invitation letter from an Indonesian counterpart or sponsoring company.",
+        "Sponsor details including name, address, phone number and Indonesian ID card (KTP) for individuals or company details for organizations.",
+        "Updated trade license (if in Bangla, English translation with notary copy must be attached).",
+        "Business pad (2 copies).",
+        "Memorandum of Articles copy if proprietor or managing director name is not mentioned in the trade license.",
+        "Visiting card."
       ]
     }
   ],
